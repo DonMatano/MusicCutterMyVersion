@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mp3CutterMyVersion</string>
+    <string name="song_list_tab_title">Songs</string>
+    <string name="trimmed_songs_tab_title">Trimmed Songs</string>
+</resources>
